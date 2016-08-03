@@ -13,9 +13,6 @@ Table of Contents
 - __[Probability and Statistics](#probability-and-statistics)__
 
 - __[Programming](#programming)__
-	- __[Algorithms](#algorithms)__
-	- __[Python](#python)__
-	- __[SQL](#sql)__
 
 - __[Data Engineering](#data-engineering)__
 
