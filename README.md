@@ -56,27 +56,47 @@ Programming
 
 Data Engineering
 ----
-1. [Coursera Cloud Computing Specialization](https://www.coursera.org/specializations/cloud-computing)
-2. [Intro to Hadoop and MapReduce](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617)
+- [Cloud Computing Specialization](https://www.coursera.org/specializations/cloud-computing)
+- [Intro to Hadoop and MapReduce](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617)
 
 Machine Learning
 ----
-1. [Coursera - Andrew Ng](https://www.coursera.org/learn/machine-learning/home/welcome)
-2. [TensorFlow](https://www.udacity.com/course/deep-learning--ud730)
+- [Machine Learning (Andrew Ng)](https://www.coursera.org/learn/machine-learning/home/welcome)
+
+Deep Learning
+----
+- [Deep Learning by Google](https://www.udacity.com/course/deep-learning--ud730)
+- [Fast.ai Deep Learning: Part 1](http://course.fast.ai/)
+- [Fast.ai Deep Learning: Part 2](http://course.fast.ai/part2.html)
 
 Natural Language Processing
 ----
-Coming soon...
+- [Sentiment Analysis Tutorial - Christopher Potts](http://sentiment.christopherpotts.net/index.html)
+
+Mathematics
+----
+- [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-05x-0)
+- [Computational Linear Algebra](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
+
+Conference Resources
+---
+- [PyCon](https://us.pycon.org/)
+	- [2016](https://us.pycon.org/2016)
+		- [Tutorials](https://us.pycon.org/2016/schedule/tutorials/)
+		- [Videos](https://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw/videos)
+	- [2017](https://us.pycon.org/2017)
+		- [Tutorial List](https://us.pycon.org/2017/schedule/tutorials/list/)
+		- [Videos](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg/videos)
 
 Analytics
 ----
-1. [Lean Analytics](https://www.udemy.com/lean-analytics-workshop-alistair-croll-and-ben-yoskovitz)
+- [Lean Analytics](https://www.udemy.com/lean-analytics-workshop-alistair-croll-and-ben-yoskovitz)
 
 Technical Interview
 ----
-1. [Python Technical Interview](https://www.udacity.com/course/viewer#!/c-ud513/l-7174469398/m-7121274992)
+- [Python Technical Interview](https://www.udacity.com/course/viewer#!/c-ud513/l-7174469398/m-7121274992)
 
 
 Contributing
 ----
-Feel free to reach out put sending a pull request if you have additonal resources you think would add value to this list.
+Feel free to reach out by sending a pull request if you have additonal resources you think would add value to this list.
