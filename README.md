@@ -53,6 +53,8 @@ Programming
 - SQL
   * [Mode SQL School](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/)
   * [SQLZoo](http://sqlzoo.net/)
+  * [SQLCourse2](http://www.sqlcourse2.com/)
+  * [Codecademy](https://www.codecademy.com/learn/learn-sql)
 
 Data Engineering
 ----
@@ -82,18 +84,33 @@ Conference Resources
 ---
 - [PyCon](https://us.pycon.org/)
 	- [2016](https://us.pycon.org/2016)
-		- [Tutorials](https://us.pycon.org/2016/schedule/tutorials/)
 		- [Videos](https://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw/videos)
+		- [Tutorials](https://us.pycon.org/2016/schedule/tutorials/)
 	- [2017](https://us.pycon.org/2017)
-		- [Tutorial List](https://us.pycon.org/2017/schedule/tutorials/list/)
 		- [Videos](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg/videos)
-
+		- [Tutorial List](https://us.pycon.org/2017/schedule/tutorials/list/)
+- [KDD](http://www.kdd.org/)
+	- [2015](http://www.kdd.org/kdd2015/)
+		- [Videos](https://www.youtube.com/playlist?list=PLn0nrSd4xjjaNzvUtxHzU64xTz4Y_XNK9)
+		- [Tutorials](http://www.kdd.org/kdd2015/tutorial.html)
+	- [2016](http://www.kdd.org/kdd2016/)
+		- [Videos](https://www.youtube.com/channel/UCPsUUDUlcTJuP-fRa7z85aQ)
+		- [Accepted Papers](http://www.kdd.org/kdd2016/program/accepted-papers)
+		- [Hands-On Tutorials](http://www.kdd.org/kdd2016/hands-on-tutorials)
+	- [2017](http://www.kdd.org/kdd2017/)
+		- [Videos](https://www.youtube.com/channel/UC_sfvZvvPUbOQhDs_cqlx_A)
+		- [Accepted Papers](http://www.kdd.org/kdd2017/accepted-papers)
+		- Tutorials
+			- [Conventional](http://www.kdd.org/kdd2017/tutorials)
+			- [Hands-On](http://www.kdd.org/kdd2017/hands-on-tutorials)
+			
 Analytics
 ----
 - [Lean Analytics](https://www.udemy.com/lean-analytics-workshop-alistair-croll-and-ben-yoskovitz)
 
 Technical Interview
 ----
+- [Top 10 Algorithms for Coding Interview](https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
 - [Python Technical Interview](https://www.udacity.com/course/viewer#!/c-ud513/l-7174469398/m-7121274992)
 
 
